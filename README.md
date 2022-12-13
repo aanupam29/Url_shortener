@@ -2,7 +2,7 @@
 
 This is an example of how to make a application which shortens the url entered by the client.
 
-**MongoDB** is used for storing Users in Database.
+**MongoDB** is used for storing URLs in Database.
 
 ---
 
